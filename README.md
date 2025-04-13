@@ -64,6 +64,7 @@ npx hardhat run scripts/deploy.js --network ganache
 ### 4️⃣ Start the React App
 
 ```bash
+cd client
 npm start
 ```
 
