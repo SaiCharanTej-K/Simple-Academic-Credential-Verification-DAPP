@@ -65,7 +65,7 @@ npx hardhat run scripts/deploy.js --network ganache
 
 ```bash
 cd client
-npm start
+npm run dev
 ```
 
 - Make sure you give permissions to access through your local host port by confirming access via MetaMask.
